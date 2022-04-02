@@ -33,7 +33,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
+  github: "https://github.com/blais3pasc4l",
   linkedin: "https://www.linkedin.com/in/juan-calderon-pe%C3%B1a-40342420a/",
   gmail: "juandavidcalderonpena@gmail.com",
   gitlab: "https://gitlab.com/blais3pasc4l",
@@ -231,7 +231,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
+  showGithubProfile: "True", // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
 
