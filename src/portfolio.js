@@ -396,6 +396,35 @@ const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
+const images = {
+  img : [
+      {   
+          src : "https://i.imgur.com/W6EKKmi.png",
+          href : "https://blais3pasc4l.github.io/salon_app/",
+          title : "1"
+      },
+      {   
+          src : "https://i.imgur.com/6ZZs4Qs.png",
+          href : "https://blog-caf.netlify.app//",
+          title : "2"
+      },
+      {   
+          src : "https://i.imgur.com/Nn9YJFC.png",
+          href : "https://userm4p.github.io/React-Buscador-de-gifs/",
+          title : "3"
+      },
+      {   
+          src : "https://i.imgur.com/DQUxy04.png",
+          href : "https://blais3pasc4l.github.io/Edm-y-Rock/",
+          title : "4"
+      },
+      {
+        src : "https://i.imgur.com/eePGy36.png",
+        href : "https://github.com/Userm4p/HeroesApp",
+        title : "5"
+      }
+  ]
+}
 
 export {
   illustration,
@@ -413,5 +442,6 @@ export {
   talkSection,
   podcastSection,
   contactInfo,
-  twitterDetails
+  twitterDetails,
+  images
 };
