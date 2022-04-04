@@ -398,30 +398,36 @@ const twitterDetails = {
 };
 const images = {
   img : [
+      
       {   
-          src : "https://i.imgur.com/W6EKKmi.png",
-          href : "https://blais3pasc4l.github.io/salon_app/",
-          title : "1"
-      },
-      {   
-          src : "https://i.imgur.com/6ZZs4Qs.png",
-          href : "https://blog-caf.netlify.app//",
+          src : "https://i.imgur.com/Zmf1b8O.jpg",
+          href : "https://github.com/blais3pasc4l/gdlwebcamp",
           title : "2"
       },
       {   
-          src : "https://i.imgur.com/Nn9YJFC.png",
-          href : "https://userm4p.github.io/React-Buscador-de-gifs/",
+        src : "https://i.imgur.com/W6EKKmi.png",
+        href : "https://blais3pasc4l.github.io/salon_app/",
+        title : "1"
+    },
+      {   
+          src : "https://i.imgur.com/NGHCeYP.jpg",
+          href : "https://github.com/blais3pasc4l/Rick-And-Morty-Personajes-Web-",
           title : "3"
       },
       {   
-          src : "https://i.imgur.com/DQUxy04.png",
-          href : "https://blais3pasc4l.github.io/Edm-y-Rock/",
+          src : "https://i.imgur.com/sd8rOt2.png",
+          href : "https://github.com/blais3pasc4l/React-Django-API",
           title : "4"
       },
       {
-        src : "https://i.imgur.com/eePGy36.png",
-        href : "https://github.com/Userm4p/HeroesApp",
+        src : "https://i.imgur.com/x2f8mH8.png",
+        href : "https://github.com/blais3pasc4l/Crud-Django-Excel",
         title : "5"
+      },
+      {
+        src:"https://i.imgur.com/69Pdj4X.png",
+        href:"https://next-qr-firebase-a3x1s37h9-blais3pasc4l.vercel.app/",
+        title:"6"
       }
   ]
 }
